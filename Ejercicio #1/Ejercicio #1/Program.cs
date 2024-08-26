@@ -1,10 +1,10 @@
-﻿namespace Uam
+﻿namespace Ejercicio__1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
+            Console.WriteLine("Hola mundo!");
         }
     }
 }

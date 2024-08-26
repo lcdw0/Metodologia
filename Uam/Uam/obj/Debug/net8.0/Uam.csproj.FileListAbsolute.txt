@@ -1,0 +1,15 @@
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\bin\Debug\net8.0\Uam.exe
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\bin\Debug\net8.0\Uam.deps.json
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\bin\Debug\net8.0\Uam.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\bin\Debug\net8.0\Uam.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\bin\Debug\net8.0\Uam.pdb
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\Uam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\Uam.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\Uam.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\Uam.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\Uam.sourcelink.json
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\Uam.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\refint\Uam.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\Uam.pdb
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\Uam.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Metodologia\Uam\Uam\obj\Debug\net8.0\ref\Uam.dll

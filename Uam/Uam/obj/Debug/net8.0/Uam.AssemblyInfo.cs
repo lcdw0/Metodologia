@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8398ac88e5a946f2be2f4fddd0174f02926638f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19d25dbc5ebed738b87cf0c159aca97785393c4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
